@@ -1,6 +1,6 @@
 .gradle/
 .idea/
-olive-oyl.iml
+LandRegistry.iml
 cordapp/build/
 out/
 cordapp/out/
